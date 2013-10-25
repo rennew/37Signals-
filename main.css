@@ -95,6 +95,8 @@ span {
 	text-align: center;
 }
 #center_pics li{
+	margin-right: auto;
+	margin-left: auto;
 	display: inline-block;
 	padding-right: 30px;
 	
